@@ -1,0 +1,8 @@
+site_name: Git Sh*t 💩
+nav:
+  - Home: index.md
+  - Usernames: usernames.md
+  - Repositories: repositories.md
+  - Commits & Coments: commits.md
+  - About: about.md
+theme: torillic
